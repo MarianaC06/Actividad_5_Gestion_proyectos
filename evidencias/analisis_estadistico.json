@@ -1,0 +1,6 @@
+{
+  "prueba": "Wilcoxon pareada sobre errores absolutos de test",
+  "estadistico": 6652362.0,
+  "p_value": 1.261370623832286e-68,
+  "advertencia": "Dependencia entre observaciones y tamaño muestral afectan interpretación; comparación exploratoria."
+}
